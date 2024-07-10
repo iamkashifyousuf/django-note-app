@@ -61,5 +61,5 @@ NoteApp is a simple note-taking web application. It allows users to create, view
 4. **Access the application:**
 
     - The frontend can be accessed at `http://localhost:3000`.
-    - The backend API can be accessed at `http://localhost:8000/api/notes/`.
+    - The backend AaPI can be accessed at `http://localhost:8000/api/notes/`.
 
